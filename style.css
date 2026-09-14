@@ -1,0 +1,10 @@
+
+
+#gameContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    height: 100px;
+}
