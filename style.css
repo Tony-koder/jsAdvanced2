@@ -1,8 +1,17 @@
+/* Just some pretty basic styling */
+body {
+    background-color: rgb(240, 252, 255);
+}
 
+#searchBar {
+margin-left: 2vw;
+margin-bottom: 1vh;
+}
 
 #gameContainer {
     display: flex;
     flex-direction: row;
+    gap: 30px;
 }
 
 img {
